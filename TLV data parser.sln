@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLV data parser", "TLV data parser\TLV data parser.csproj", "{02A73DA6-D7DC-42EF-B1CB-4068C9ABB8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLVDataParser.UnitTest", "TLVDataParser.UnitTest\TLVDataParser.UnitTest.csproj", "{94B78036-AFB5-45BC-90A8-0CBEC18866B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A73DA6-D7DC-42EF-B1CB-4068C9ABB8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A73DA6-D7DC-42EF-B1CB-4068C9ABB8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A73DA6-D7DC-42EF-B1CB-4068C9ABB8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A73DA6-D7DC-42EF-B1CB-4068C9ABB8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B78036-AFB5-45BC-90A8-0CBEC18866B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B78036-AFB5-45BC-90A8-0CBEC18866B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B78036-AFB5-45BC-90A8-0CBEC18866B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B78036-AFB5-45BC-90A8-0CBEC18866B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD6B0F65-AB8C-49D9-83B4-3A1B7771F7A2}
+	EndGlobalSection
+EndGlobal
